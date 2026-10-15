@@ -1,0 +1,7 @@
+# Claude Code 本地机器配置（含个人权限设置，不共享）
+.claude/settings.local.json
+
+# 系统/编辑器杂项
+.DS_Store
+Thumbs.db
+*.swp
